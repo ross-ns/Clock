@@ -49,7 +49,6 @@ class Clock
 			this->hourHandWeight = hourHandWeight;
 		}
 
-
 		void drawFace()
 		{
 			setcolor(WHITE);
